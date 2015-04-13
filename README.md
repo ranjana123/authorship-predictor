@@ -17,8 +17,7 @@ heading.
 of the git command. 
   This Source code is free to use for study purpose only. Any commercial usage of this source code with out
 the written permission from the authors is strictly illegal. 
-  For any doubts feel free to drop a mail to this address nithup123@gmail.com or make a phone call to
-+919961719738
+  For any doubts feel free to drop a mail to this address ranjanav93@gmail.com.
                                       
                                           ***************  
 
